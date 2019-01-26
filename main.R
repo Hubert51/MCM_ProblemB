@@ -12,38 +12,50 @@ Box3 = Box(length = 12, height = 4, width = 7)
 
 # create containers
 containers <- list()
-n_containers <- 4
+n_containers <- 1
+
 
 for (i in 1:n_containers) {
   containers <- c(containers,
-                  Container(length = 2, height = 2, width = 2)
+                  Container(length = 8.1, height = 10, width = 14)
   )
 }
+
+
+# containers < c(containers, Container(length = 24, height = 20, width = 20)
 # print(Med1)
 
 # create boxes
 boxes <- list()
 n_boxes <- 20
 
-for (i in 1:30) {
+for (i in 1:20) {
+  index = sample(c(1, 2, 3), 1)
+  print(c(Box1, Box2, Box3)[index])
   length <- sample(c(0.4, 0.5, 1), 1)
   height <- sample(c(0.4, 0.5, 1), 1)
   width <- sample(c(0.4, 0.5, 1), 1)
   
-  boxes <- c(boxes, Box(length = length, height = height, width = width) )
-  # boxes <- c(boxes, Box1)
+  # boxes <- c(boxes, Box(length = length, height = height, width = width) )
+  
+  boxes <- c(boxes, Box3)
 }
 
 # Box Packing
 solution <- PerformBoxPacking(containers = containers,
                     boxes = boxes,
-                    n_iter = 4,
-                    population_size = 20,
-                    elitism_size = 5,
-                    crossover_prob = 0.5,
-                    mutation_prob = 0.5,
+                    n_iter = 1,
+                    population_size = 3,
+                    elitism_size = 1,
+                    crossover_prob = 1,
+                    mutation_prob = 1,
                     verbose = TRUE,
-                    plotSolution = TRUE )
+                    plotSolution = TRUE
+)
+
+# print(solution)
+# View(solution)
+print(summary(solution)[1])
 
 
 
