@@ -1,0 +1,816 @@
+N=14
+Container1 to Hospital HIMA. Distance is 33.186
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Container1 to Hospital PS. Distance is 23.717
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 20g
+The items in this box are:
+Item 1
+Item 1
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 18g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 18g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Container1 to Children’s Hospital. Distance is 12.896
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 20g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 20g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 18g
+The items in this box are:
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+Container1 to Hospital PA. Distance is 51.677
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 4g
+The items in this box are:
+Item 1
+Item 1
+Container2 to Hospital HIMA. Distance is 16.032
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 20g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Container2 to Hospital PS. Distance is 14.943
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 20g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 18g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 16g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 2
+Container2 to Children’s Hospital. Distance is 21.205
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a F, it is 40mm wide, 40mm long and 25mm high
+The combined weight of this box and the items inside it is 22g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+Item 3
+Item 2
+This box is a B, it is 30mm wide, 30mm long and 22mm high
+The combined weight of this box and the items inside it is 6g
+The items in this box are:
+Item 2
+Item 2
+Item 2
+Container2 to CMC. Distance is 36.474
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 14g
+The items in this box are:
+Item 1
+Item 1
+Item 1
+Item 1
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 13g
+The items in this box are:
+Item 1
+Item 1
+Item 3
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 12g
+The items in this box are:
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 12g
+The items in this box are:
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 12g
+The items in this box are:
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 12g
+The items in this box are:
+Item 3
+Item 3
+Item 3
+Item 3
+This box is a C, it is 60mm wide, 50mm long and 30mm high
+The combined weight of this box and the items inside it is 9g
+The items in this box are:
+Item 3
+Item 3
+Item 3
+CCCCCCCFFFFFFFFFFFBBBBBBBBBBBBBBBBBBBBBBB
+CCCFFFFFFFFFFFFFFFFFFFFFFBBB
+CCCCCCCCCCCCCCFFFFFFFB
