@@ -1,0 +1,211 @@
+
+def distribute_drone(all_drone, required_med, dist_to_hospital):
+	useful_drone = []
+	for drone in all_drone :
+		if drone.maxFlightDist >= dist_to_hospital:
+			useful_drone.add(drone)
+
+pack_med_into_drone(supplied_drone, required_med, dist_to_all_hospital):
+    useful_drone = use_distance_to_remove_drone();
+    add_med_into_Templist()
+    drone_number = pack_item_in_Templist()
+    return pack_info
+
+
+main_function (constant, proportion_ratio_for_all_hospital ):
+	maintainence_index = 1
+	day_per_maintainence_index = constant
+
+	while (True):
+		break_flag = True
+		all_required_med = []
+		for container in all containers:
+			for hosp in container:
+				# ration depends on the distribution strategy
+				required_med.add( required_med_in_hosp * maintainence_index * proportion_ratio_for_this_hosp )
+			drone_number = pack_med_into_drone(supplied_drone, required_med, dist_to_all_hospital)
+			container = pack_drone_into_container(drone_number)  # similar with pack_med_into_drone function
+			if (requred container > given container): 
+				break_flag = False
+		if (break_flag == False):
+			break
+		else:
+			maintainence_index += 1
+	The maintainence day is maintainence_index * constant
+
+
+
+
+
+function calculate_drone_number($packedBoxes, $type){
+    $myfile = fopen("testfile.txt", "a");
+    foreach ($packedBoxes as $packedBox) {
+        $boxType = $packedBox->getBox(); // your own box object, in this case TestBox
+        $packedItems = $packedBox->getItems();
+        foreach ($packedItems as $packedItem) { // $packedItem->getItem() is your own item object, in this case TestItem
+            echo $packedItem->getItem()->getDescription() ;
+            fwrite($myfile, $packedItem->getItem()->getDescription());
+        }
+
+        echo "\n";
+        fwrite($myfile, " ");
+
+    }
+    if ($type==1){
+        fwrite($myfile, "\t");
+    }
+    elseif ($type==2){
+        fwrite($myfile, "\n");
+    }
+    fclose($myfile);
+}
+
+
+function pack_stretgey($dist, $all_drone, $all_item, $require_item)
+{
+    $useful_drone = remove_drone($dist, $all_drone);
+    $arrlength = count($useful_drone);
+
+//    for($x = 0; $x < $arrlength; $x++) {
+//        echo $useful_drone[$x]->getFlybility();
+//        echo "\n";
+//    }
+
+    $packer = new Packer();
+    $index = 0;
+    foreach ($require_item as $require) {
+        for ($i=0; $i<$require; $i++){
+            $packer->addItem($all_item[$index]);
+        }
+        $index++;
+    }
+    foreach ($useful_drone as $drone){
+        $packer->addBox($drone);
+    }
+
+    $packedBoxes = $packer->pack();
+//    print  count($packedBoxes). PHP_EOL;
+
+    $flag = true;
+    foreach ($packedBoxes as $packedBox) {
+        $boxType = $packedBox->getBox(); // your own box object, in this case TestBox
+//        if ( $boxType->getReference()=="F" and $flag){
+//            $container1->addItem($drone_b);
+//            $flag = false;
+//        }
+//        if ( $boxType->getReference() == "F" && $flag){
+//            $packedBoxes->insert(new TestBox('B', 30, 30, 22, 0, 8, 10, 14, 8,52.67));
+//            $flag = false;
+//        }
+        echo "This box is a {$boxType->getReference()}, it is {$boxType->getOuterWidth()}mm wide, {$boxType->getOuterLength()}mm long and {$boxType->getOuterDepth()}mm high" . PHP_EOL;
+        echo "The combined weight of this box and the items inside it is {$packedBox->getWeight()}g" . PHP_EOL;
+
+        echo "The items in this box are:" . PHP_EOL;
+        $packedItems = $packedBox->getItems();
+        foreach ($packedItems as $packedItem) { // $packedItem->getItem() is your own item object, in this case TestItem
+            echo $packedItem->getItem()->getDescription() . PHP_EOL;
+        }
+    }
+
+    return $packedBoxes;
+}
+
+class PackerTest extends TestCase
+{
+    /**
+     * Test used width calculations on a case where it used to fail.
+     */
+    public function testPackThreeItemsOneDoesntFitInAnyBox(): void
+    {
+        ob_end_flush();
+        $gamma = 0.95;
+//        print 123;
+        $box1 = new TestBox('A', 45, 45, 25, 0, 8, 10, 14, 3,23.33*$gamma);
+        $box2 = new TestBox('B', 30, 30, 22, 0, 8, 10, 14, 8,52.67*$gamma);
+        $box3 = new TestBox('C', 60, 50, 30, 0, 24, 20, 20, 14,37.33*$gamma);
+        $box4 = new TestBox('D', 25, 20, 25, 0, 8, 10, 14, 11, 18*$gamma);
+        $box5 = new TestBox('E', 25, 20, 27, 0, 24, 20, 20, 15, 15*$gamma);
+        $box6 = new TestBox('F', 40, 40, 25, 0, 24, 20, 20, 22, 31.6*$gamma);
+        $box7 = new TestBox('G', 32, 32, 17, 0, 24, 20, 20, 20,17.07*$gamma);
+
+        $c1 = new TestBox('container1', 231, 92, 94, 0, 231, 92, 94, 2000,17.07);
+
+        $item1 = new TestItem('Item 1', 14, 7, 5, 2, false);
+        $item2 = new TestItem('Item 2', 5, 8, 5, 2, false);
+        $item3 = new TestItem('Item 3', 12, 7, 4, 3, false);
+        $drone_b = new TestItem('B', 30, 30, 22, 0, false);
+
+
+        $all_drone = array($box1, $box2, $box3, $box4, $box5, $box6, $box7);
+        $all_item = array($item1, $item2, $item3);
+        $requirement = array($item1, $item2, $item3);
+
+        $all_data = array(
+            array(33.186,1,2,0,1,"Hospital HIMA",1), array(23.717,0,1,1,0, "Hospital PS",1), array(12.896,1,2,1,2,"Children’s Hospital",1), array(51.677,3,1,0,0,"Hospital PA",1),
+            array(16.032,2,2,0,1, "Hospital HIMA",2), array(14.943,3,1,1,0, "Hospital PS",2), array(21.205,2,2,1,2, "Children’s Hospital",2), array(36.474,3,1,0,1, "CMC",2)
+        );
+
+
+        for($x =9; $x < 60; $x++) {
+            $number_of_drone = array();
+            $container1 = new Packer();
+            $container2 = new Packer();
+            $container1->addBox($c1);
+            $container2->addBox($c1);
+
+            echo "N=".$x . "\n";
+
+//            echo "Today is day " . $x . "\n";
+            foreach ( $all_data as $d ){
+                echo "Container".$d[6]." to ".$d[5].". Distance is ".$d[0]."\n";
+                $result = pack_stretgey($d[0], $all_drone, $all_item, array($d[2]*$x*$d[1],$d[3]*$x*$d[1],$d[4]*$x*$d[1]));
+
+                if ( $d[6] == 1 ) {
+                    $flag = true;
+                    foreach ($result as $packedBox) {
+                        $boxType = $packedBox->getBox(); // your own box object, in this case TestBox
+//                        echo $boxType->getReference();
+                        $container1->addItem( new TestItem($boxType->getReference(), $boxType->getOuterWidth(), $boxType->getOuterLength(), $boxType->getOuterDepth(), 0, false));
+                        $string1 = $boxType->getReference();
+//                        echo $string1;
+                        if ( $boxType->getReference()=="F" and $flag){
+                            $container1->addItem($drone_b);
+                            $flag = false;
+                        }
+                    }
+                }
+                elseif ( $d[6] == 2 ){
+                    $flag = true;
+                    foreach ($result as $packedBox) {
+                        $boxType = $packedBox->getBox(); // your own box object, in this case TestBox
+//                        echo $boxType->getReference();
+                        $container2->addItem( new TestItem($boxType->getReference(), $boxType->getOuterWidth(), $boxType->getOuterLength(), $boxType->getOuterDepth(), 0, false));
+                        if ( $boxType->getReference()=="F" and $flag){
+                            $container2->addItem($drone_b);
+                            $flag = false;
+                        }
+                        //                        echo 7897970;
+//                        echo "\n";
+//                        echo $boxType->getOuterWidth();
+//                        echo $boxType->getOuterWidth();
+//                        echo "\n";
+
+                    }
+                }
+            }
+
+            $packedBoxes1 = $container1->pack() ;
+            $packedBoxes2 = $container2->pack() ;
+
+            if (count($packedBoxes1) > 1 || count($packedBoxes2) > 2) {
+                break;
+            }
+
+            calculate_drone_number($packedBoxes1, 1);
+            calculate_drone_number($packedBoxes2, 2);
+
+
+        }
+        echo "\n";
+    }
+
